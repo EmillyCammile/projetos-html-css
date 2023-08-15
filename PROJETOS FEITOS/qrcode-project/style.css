@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Outfit, Verdana, sans-serif ;
+    src: url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+h1{
+    font-weight: 700;
+}
+
+h2{
+    font-weight: 400;
+}
+
+main{
+    background-color: hsl(0, 0%, 100%);
+    padding: 10px;
+}
